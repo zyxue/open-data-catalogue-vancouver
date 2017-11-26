@@ -1,0 +1,7 @@
+__pycache__
+.ipynb_checkpoints
+*.csv
+*.zip
+
+# potentially screen output
+hardcopy.1
